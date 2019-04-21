@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<QuizQuestions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Questions>
+    <Question>
+      <QuestionText>Berlin is the capital of which country?</QuestionText>
+      <QuestionPoints>1</QuestionPoints>
+      <Answers>
+        <Answer>
+          <AnswerText>Belgium</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Netherlands</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Germany</AnswerText>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>England</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <QuestionText>Does the moon have gravity?</QuestionText>
+      <QuestionPoints>1</QuestionPoints>
+      <Answers>
+        <Answer>
+          <AnswerText>Yes — it’s 1.622 m/s²</AnswerText>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>No — there’s no gravity where you float</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <QuestionText>You want to make green paint. Which colors do you mix together?</QuestionText>
+      <QuestionPoints>1</QuestionPoints>
+      <Answers>
+        <Answer>
+          <AnswerText>Red and yellow</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Blue and yellow</AnswerText>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Orange and purple</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <QuestionText>Which is the longest river in the world?</QuestionText>
+      <QuestionPoints>1</QuestionPoints>
+      <Answers>
+        <Answer>
+          <AnswerText>Amazon</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Nile</AnswerText>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Mississippi</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <QuestionText>What language do most people in Austria speak?</QuestionText>
+      <QuestionPoints>1</QuestionPoints>
+      <Answers>
+        <Answer>
+          <AnswerText>German</AnswerText>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Austrian</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Hungarian</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <QuestionText>Which country is closer to the North Pole?</QuestionText>
+      <QuestionPoints>1</QuestionPoints>
+      <Answers>
+        <Answer>
+          <AnswerText>Finland</AnswerText>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>China</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>North Korea</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <QuestionText>On the “polar” opposite end of the world, which animal lives in Antarctica?</QuestionText>
+      <QuestionPoints>1</QuestionPoints>
+      <Answers>
+        <Answer>
+          <AnswerText>Polar bear</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Reindeer</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Narwhals</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Penguins</AnswerText>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <QuestionText>Who was president of the United States in 2005?</QuestionText>
+      <QuestionPoints>1</QuestionPoints>
+      <Answers>
+        <Answer>
+          <AnswerText>Bill Clinton</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Barack Obama</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>George W. Bush</AnswerText>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>George H.W. Bush</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <QuestionText>It takes a bright person to innovate! Who is credited with inventing the lightbulb?</QuestionText>
+      <QuestionPoints>1</QuestionPoints>
+      <Answers>
+        <Answer>
+          <AnswerText>Alexander Graham Bell</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Benjamin Franklin</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Thomas Edison</AnswerText>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+    <Question>
+      <QuestionText>Which of this countries held UEFA European Championship  in 2012?</QuestionText>
+      <QuestionPoints>1</QuestionPoints>
+      <Answers>
+        <Answer>
+          <AnswerText>France</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Ukraine</AnswerText>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Egipt</AnswerText>
+          <IsCorrect>false</IsCorrect>
+        </Answer>
+        <Answer>
+          <AnswerText>Poland</AnswerText>
+          <IsCorrect>true</IsCorrect>
+        </Answer>
+      </Answers>
+    </Question>
+  </Questions>
+  <TotalPoints>10</TotalPoints>
+</QuizQuestions>
